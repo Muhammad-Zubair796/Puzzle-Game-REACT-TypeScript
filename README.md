@@ -87,9 +87,7 @@ npm run dev
 
 Refactoring this game from JavaScript to TypeScript helped me understand how **Type-Driven Development** catches bugs during coding rather than after deployment. It makes the codebase much more maintainable and professional.
 
----
 
-```
 
----
+
 
