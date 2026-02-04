@@ -1,6 +1,5 @@
 
 
-```markdown
 # ⚛️ Assembly: The TypeScript Evolution
 
 This is a complete refactor of my original [Puzzle-React-Game](https://github.com/Muhammad-Zubair796/Puzzule-React-Game). I took the same core logic and UI but rebuilt it using **TypeScript** to demonstrate how to build robust, type-safe React applications.
